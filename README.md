@@ -1,6 +1,7 @@
 # ROBOTICS
 Robot Version 1: https://instructions.online/?id=4063-2025-2026_v5rc_hero_bot_dex
 Robot Version 2: https://instructions.online/?id=4094-2024%202025%20vrc%20hero%20bot 
+![IMG_1579](https://github.com/user-attachments/assets/f28fd8e3-a548-423c-8ba8-dac1d6d2587a)
 
 # 🤖 VEX Robotics 2024–2025 Hero Bot: **Axel**
 
